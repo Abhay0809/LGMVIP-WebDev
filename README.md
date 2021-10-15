@@ -37,7 +37,7 @@ https://www.linkedin.com/posts/abhay-anand08_task2-lgmvipoctober-lgmvip-activity
 
 # TASK 3 -
 
-Website Name: Student Result Management Site LGM 
+Website Name: Student Result Management System
 Mchill University
 
 Tech: HTML, CSS, JavaScript, PHP and MySQL.
@@ -46,7 +46,7 @@ Status: Completed
 
 Demo: 
 
-https://user-images.githubusercontent.com/79959032/126875923-8f6c9ba2-3dc4-4dc6-90d9-09931e4be676.mp4
+https://www.linkedin.com/posts/abhay-anand08_task3-lgmvipoctober-lgmvip-activity-6853985077869715456-tXyq
 
 
 # Hashnode Article Link:
