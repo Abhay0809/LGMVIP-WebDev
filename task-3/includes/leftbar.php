@@ -7,7 +7,7 @@
                             <!-- /.user-info -->
 
                             <div class="sidebar-nav">
-                                <ul class="side-nav color-gray">
+                                <ul class="side-nav color-cyan">
                                     <li class="nav-header">
                                         <span class="">Home</span>
                                     </li>
