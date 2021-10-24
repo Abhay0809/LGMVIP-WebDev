@@ -5,7 +5,7 @@
 List of projects I have completed as an Intern at LetsGrowMore.
 
 
-# TASK 1 -
+# TASK 1 
 
 Website Name: SPA Website
 
@@ -20,7 +20,7 @@ Demo:
 https://www.linkedin.com/posts/abhay-anand08_intern-webdeveloper-activity-6853557398293110784-D4Z5
 
 
-# TASK 2 -
+# TASK 2 
 
 Website Name: HashCom
 
@@ -35,7 +35,7 @@ Demo:
 https://www.linkedin.com/posts/abhay-anand08_task2-lgmvipoctober-lgmvip-activity-6852910899079053312-aVK6
 
 
-# TASK 3 -
+# TASK 3 
 
 Website Name: Student Result Management System
 Mchill University
